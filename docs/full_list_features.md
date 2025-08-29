@@ -1,28 +1,28 @@
 # Full list of Features
 
 ## Discord Slash Commands
-- **/alarm** - Change image of paired Smart Alarms.
-- **/alias** - Create an alias for a command/sequence of characters.
-- **/blacklist** - Blacklist a user from using the bot.
-- **/cctv** - Get cctv camera codes for monuments.
-- **/craft** - Display the cost to craft an item.
-- **/credentials** - Setup Credentials.
-- **/decay** - Display the decay time of an item.
-- **/help** - Get help message.
-- **/item** - Get the details of an item.
-- **/leader** - Transfer leadership.
-- **/map** - Display the In-Game Map.
-- **/market** - Search for or subscribe to items in vending machines.
-- **/players** - Get Battlemetrics data on all connected players.
-- **/recycle** - Display the output of recycling an item.
-- **/research** - Display the cost to research an item.
-- **/reset** - Reset Discord Channels.
-- **/role** - Setup a specific role to use rustplusplus.
-- **/storagemonitor** - Change image of paired Storage Monitors.
-- **/switch** - Change image of paired Storage Monitors.
-- **/upkeep** - Get the upkeep cost of an item.
-- **/uptime** - Get the current uptime for rustplusplus.
-- **/voice** - Let rustplusplus join voicechat.
+- **/alarm** - Eşleştirilmiş Akıllı Alarmların (Smart Alarms) görselini değiştirir.
+- **/alias** - Bir komut veya karakter dizisi için kısayol oluşturur.
+- **/blacklist** - Bir kullanıcıyı botu kullanmaktan engeller.
+- **/cctv** - Anıtlar için CCTV kamera kodlarını getirir.
+- **/craft** - Bir öğeyi üretmenin maliyetini gösterir.
+- **/credentials** - Kimlik bilgilerini ayarlar.
+- **/decay** - Bir öğenin çürüme süresini gösterir.
+- **/help** - Yardım mesajını gösterir.
+- **/item** - Bir öğenin detaylarını gösterir.
+- **/leader** - Liderliği başka bir kullanıcıya devreder.
+- **/map** - Oyundaki haritayı gösterir.
+- **/market** - Vending makinelerindeki ürünleri arar veya takip eder.
+- **/players** - Bağlı tüm oyuncuların Battlemetrics verilerini gösterir.
+- **/recycle** - Bir öğeyi geri dönüştürmenin çıktısını gösterir.
+- **/research** - Bir öğeyi araştırmanın maliyetini gösterir.
+- **/reset** - Discord kanallarını sıfırlar.
+- **/role** - rustplusplus kullanabilmesi için belirli bir rol ayarlar.
+- **/storagemonitor** - Eşleştirilmiş Depo Monitörlerinin görselini değiştirir.
+- **/switch** - Eşleştirilmiş Anahtarların görselini değiştirir.
+- **/upkeep** - Bir öğenin bakım maliyetini gösterir.
+- **/uptime** - rustplusplus’un çalışma süresini gösterir.
+- **/voice** - rustplusplus’un sesli sohbete katılmasını sağlar.
 
 ## In-Game Commands
 - **afk** - Display afk teammates.
