@@ -25,43 +25,44 @@
 - **/voice** - rustplusplus’un sesli sohbete katılmasını sağlar.
 
 ## In-Game Commands
-- **afk** - Display afk teammates.
-- **alive** - Display who has been alive longest.
-- **cargo** - Display information regarding Cargoship.
-- **chinook** - Display information regarding Chinook 47.
-- **connection/connections** - Display latest team connections.
-- **craft** - Display the cost to craft an item.
-- **death/deaths** - Display latest deaths.
-- **decay** - Display the decay time of an item.
-- **events** - Get recent events.
-- **heli** - Get information regarding Patrol Helicopter.
-- **large** - Get information regarding Large Oil Rig.
-- **leader** - Transfer leadership.
-- **marker/markers** - Set markers to navigate to.
-- **market** - Search for or subscribe to items in vending machines.
-- **mute** - Mute rustplusplus In-Game.
-- **note/notes** - Add notes.
-- **offline** - Display offline teammates.
-- **online** - Display online teammates.
-- **player/players** - Get Battlemetrics information about players.
-- **pop** - Get population of the server.
-- **prox** - Display teammates that are nearby.
-- **recycle** - Display the output of recycling an item.
-- **research** - Display the cost to research an item.
-- **send** - Send a message through rustplusplus to a person on Discord.
-- **small** - Get information regarding Small Oil Rig.
-- **steamid** - Get teammate steamid.
-- **team** - Get team information (names of all teammates).
-- **time** - Get In-Game time.
-- **timer/timers** - Setup timers.
-- **tr** - Translate from English to another language.
-- **trf** - Translate from one language to another.
-- **tts** - Text-To-Speech (Need to have teamchat open in Discord).
-- **unmute** - Unmute rustplusplus In-Game.
-- **upkeep** - Check upkeep of Storage Monitor Tool Cupboards.
-- **uptime** - Display the uptime of rustplusplus and currently connected server.
-- **vendor** - Get information regarding the Traveling Vendor
-- **wipe** - Display time since wipe.
+- **afk** - AFK (hareketsiz) takım arkadaşlarını gösterir.
+- **alive** - En uzun süredir hayatta olan kişiyi gösterir.
+- **cargo** - Cargoship hakkında bilgi gösterir.
+- **chinook** - Chinook 47 hakkında bilgi gösterir.
+- **connection/connections** - Son takım bağlantılarını gösterir.
+- **craft** - Bir öğeyi üretmenin maliyetini gösterir.
+- **death/deaths** - Son ölümleri gösterir.
+- **decay** - Bir öğenin çürüme süresini gösterir.
+- **events** - Son olayları gösterir.
+- **heli** - Devriye Helikopteri hakkında bilgi verir.
+- **large** - Büyük Petrol Platformu (Large Oil Rig) hakkında bilgi verir.
+- **leader** - Liderliği başka bir kullanıcıya devreder.
+- **marker/markers** - Gitmek için işaretler ayarlar.
+- **market** - Vending makinelerindeki ürünleri arar veya takip eder.
+- **mute** - rustplusplus’u oyun içinde susturur.
+- **note/notes** - Not ekler.
+- **offline** - Çevrimdışı takım arkadaşlarını gösterir.
+- **online** - Çevrimiçi takım arkadaşlarını gösterir.
+- **player/players** - Oyuncular hakkında Battlemetrics bilgisi gösterir.
+- **pop** - Sunucunun nüfusunu gösterir.
+- **prox** - Yakındaki takım arkadaşlarını gösterir.
+- **recycle** - Bir öğeyi geri dönüştürmenin çıktısını gösterir.
+- **research** - Bir öğeyi araştırmanın maliyetini gösterir.
+- **send** - rustplusplus üzerinden bir Discord kullanıcısına mesaj gönderir.
+- **small** - Küçük Petrol Platformu (Small Oil Rig) hakkında bilgi verir.
+- **steamid** - Takım arkadaşının SteamID’sini gösterir.
+- **team** - Takım bilgilerini gösterir (tüm takım üyelerinin isimleri).
+- **time** - Oyundaki zamanı gösterir.
+- **timer/timers** - Zamanlayıcı kurar.
+- **tr** - İngilizceden başka bir dile çevirir.
+- **trf** - Bir dilden başka bir dile çevirir.
+- **tts** - Metni sese dönüştürür (Discord’da takım sohbeti açık olmalı).
+- **unmute** - rustplusplus’u oyun içinde yeniden seslendirir.
+- **upkeep** - Depo Monitörü ile bağlı Tool Cupboard bakımını kontrol eder.
+- **uptime** - rustplusplus’un ve bağlı olduğu sunucunun çalışma süresini gösterir.
+- **vendor** - Seyyar Satıcı hakkında bilgi verir.
+- **wipe** - Son wipe’tan bu yana geçen süreyi gösterir.
+
 
 ## Smart Devices
 > Pair Smart Devices such as `Smart Switches`, `Smart Alarms`, `Storage Monitors` and control them from Discord or In-Game teamchat.
