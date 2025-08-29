@@ -76,10 +76,10 @@
 ## Akıllı Cihazlar
 > `Akıllı Anahtarlar (Smart Switches)`, `Akıllı Alarmlar (Smart Alarms)`, `Depo Monitörleri (Storage Monitors)` gibi akıllı cihazları eşleştir ve Discord veya oyun içi takım sohbetinden kontrol et.
 
-- Bkz. [Akıllı Anahtarlar](smart_devices.md#smart-switches).
-- Bkz. [Akıllı Anahtar Grupları](smart_devices.md#smart-switch-groups).
-- Bkz. [Akıllı Alarmlar](smart_devices.md#smart-alarms).
-- Bkz. [Depo Monitörleri](smart_devices.md#storage-monitors).
+- Gör. [Akıllı Anahtarlar](smart_devices.md#smart-switches).
+- Gör. [Akıllı Anahtar Grupları](smart_devices.md#smart-switch-groups).
+- Gör. [Akıllı Alarmlar](smart_devices.md#smart-alarms).
+- Gör. [Depo Monitörleri](smart_devices.md#storage-monitors).
 
 
 ## Rust Sunucu Bilgisi
