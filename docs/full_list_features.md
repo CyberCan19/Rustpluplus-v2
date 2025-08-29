@@ -73,32 +73,42 @@
 - See [Storage Monitors](smart_devices.md#storage-monitors).
 
 
-## Rust Server Information
-- See number of players, max capacity and queue size of the Rust Server.
-- See the In-Game time and time till day/night.
-- See how long ago wipe was.
-- See Map Size.
-- See Map Seed.
-- See Map Salt.
-- See Map Name.
-- F1 console connect information.
+## Akıllı Cihazlar
+> `Akıllı Anahtarlar (Smart Switches)`, `Akıllı Alarmlar (Smart Alarms)`, `Depo Monitörleri (Storage Monitors)` gibi akıllı cihazları eşleştir ve Discord veya oyun içi takım sohbetinden kontrol et.
 
-## In-Game Event Notifications
-> Receive notifications for In-Game Events such as:
-- **Cargo Ship** - When it spawns, despawns, how long before it enters egress stage. How long time since it was last out. step-trace.
-- **Patrol Helicopter** - When it spawns, despawns or gets taken down. How long time since it was last out and how long since it was taken down. step-trace.
-- **Oil Rig** - When Oil Rig calls in Heavy Scientists and how long till the Locked Crate unlocks.
-- **Chinook 47** - When it enters map and when it leaves.
-- **Vending Machines** - Whenever a new Vending Machine appears on the map.
+- Bkz. [Akıllı Anahtarlar](smart_devices.md#smart-switches).
+- Bkz. [Akıllı Anahtar Grupları](smart_devices.md#smart-switch-groups).
+- Bkz. [Akıllı Alarmlar](smart_devices.md#smart-alarms).
+- Bkz. [Depo Monitörleri](smart_devices.md#storage-monitors).
 
-## Teammate Information
-> Get information about teammates such as Online/Offline/AFK/Alive/Dead/Location/Paired/Leader.
 
-## Other
-- Connect through different Rust Servers seemingly through the `servers` Text-Channel in Discord.
-- Easily access rustplusplus settings via the Discord Text-Channel `settings`.
-- Run In-Game commands either from In-Game teamchat or from Discord Text-Channel `commands`.
-- Communicate with teammates from In-Game to Discord and vice versa.
-- Get activity information in the `activity` Text-Channel on Discord. Information such as Smart Devices not reachable, Teammate connect/disconnect/leave/join/death, Smart Alarms notify when triggered, Server went offline/online, Map Wipe Detection, Storage Monitor Decay Notification, Tracker notifications etc...
-- Create Battlemetrics Trackers to track players or groups.
-- Get Facepunch news in Discord.
+## Rust Sunucu Bilgisi
+- Rust sunucusundaki oyuncu sayısını, maksimum kapasiteyi ve sıra büyüklüğünü gör.
+- Oyundaki saati ve gündüz/geceye kalan süreyi gör.
+- Son wipe’tan bu yana geçen süreyi gör.
+- Harita boyutunu gör.
+- Harita Seed değerini gör.
+- Harita Salt değerini gör.
+- Harita adını gör.
+- F1 konsol bağlantı bilgisini al.
+
+## Oyun İçi Etkinlik Bildirimleri
+> Aşağıdaki oyun içi etkinlikler için bildirim al:
+- **Kargo Gemisi (Cargo Ship)** - Ne zaman doğduğu, kaybolduğu, çıkış aşamasına girmesine ne kadar kaldığı. Son çıktığı zamandan beri geçen süre. Adım izleme.
+- **Devriye Helikopteri (Patrol Helicopter)** - Ne zaman doğduğu, kaybolduğu veya düşürüldüğü. Son çıktığı ve düşürüldüğü zamandan beri geçen süre. Adım izleme.
+- **Petrol Platformu (Oil Rig)** - Heavy Scientists çağırıldığında ve Kilitli Sandığın (Locked Crate) açılmasına ne kadar kaldığı.
+- **Chinook 47** - Haritaya ne zaman girdiği ve çıktığı.
+- **Vending Makineleri** - Haritaya yeni bir vending makinesi eklendiğinde.
+
+## Takım Arkadaşı Bilgisi
+> Takım arkadaşları hakkında şu bilgileri al: Çevrimiçi/Çevrimdışı/AFK/Hayatta/Ölü/Konum/Eşleştirilmiş/Lider.
+
+## Diğer
+- Discord’daki `servers` metin kanalından farklı Rust sunucularına bağlan.
+- `settings` metin kanalından rustplusplus ayarlarına kolayca eriş.
+- Oyun içi komutları ya oyun içinden ya da Discord’daki `commands` metin kanalından çalıştır.
+- Oyun içinden Discord’a ve Discord’dan oyuna takım arkadaşlarınla iletişim kur.
+- Discord’daki `activity` metin kanalında aktivite bilgisi al. Örneğin: Ulaşılamayan Akıllı Cihazlar, Takım arkadaşı bağlandı/çıktı/katıldı/ayrıldı/öldü, Akıllı Alarmlar tetiklendiğinde bildirim, Sunucu çevrimdışı/çevrimiçi oldu, Harita Wipe Tespiti, Depo Monitörü Çürüme Bildirimi, Takipçi (Tracker) bildirimleri vb...
+- Oyuncuları veya grupları takip etmek için Battlemetrics Takipçileri (Trackers) oluştur.
+- Discord’da Facepunch haberlerini al.
+
