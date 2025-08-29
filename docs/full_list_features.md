@@ -64,13 +64,14 @@
 - **wipe** - Son wipe’tan bu yana geçen süreyi gösterir.
 
 
-## Smart Devices
-> Pair Smart Devices such as `Smart Switches`, `Smart Alarms`, `Storage Monitors` and control them from Discord or In-Game teamchat.
+## Akıllı Cihazlar
+> `Akıllı Anahtarlar (Smart Switches)`, `Akıllı Alarmlar (Smart Alarms)`, `Depo Monitörleri (Storage Monitors)` gibi akıllı cihazları eşleştir ve Discord veya oyun içi takım sohbetinden kontrol et.
 
-- See [Smart Switches](smart_devices.md#smart-switches).
-- See [Smart Switch Groups](smart_devices.md#smart-switch-groups).
-- See [Smart Alarms](smart_devices.md#smart-alarms).
-- See [Storage Monitors](smart_devices.md#storage-monitors).
+- Gör. [Akıllı Anahtarlar](smart_devices.md#smart-switches).
+- Gör. [Akıllı Anahtar Grupları](smart_devices.md#smart-switch-groups).
+- Gör. [Akıllı Alarmlar](smart_devices.md#smart-alarms).
+- Gör. [Depo Monitörleri](smart_devices.md#storage-monitors).
+
 
 
 ## Akıllı Cihazlar
